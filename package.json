@@ -63,7 +63,7 @@
     "parse-packagejson-name": "^1.0.1",
     "prettify-xml": "^1.2.0",
     "properties-reader": "^2.2.0",
-    "semver": "^7.3.8",
+    "semver": "^7.5.2",
     "ssri": "^8.0.1",
     "table": "^6.8.1",
     "tar": "^6.1.13",
