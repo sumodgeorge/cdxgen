@@ -50,7 +50,7 @@
   },
   "dependencies": {
     "@babel/parser": "^7.20.15",
-    "@babel/traverse": "^7.20.13",
+    "@babel/traverse": "^7.23.2",
     "cheerio": "^1.0.0-rc.12",
     "edn-data": "^1.0.0",
     "glob": "^8.1.0",
