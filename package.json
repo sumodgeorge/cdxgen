@@ -75,7 +75,7 @@
   "optionalDependencies": {
     "@cyclonedx/cdxgen-plugins-bin": "^1.0.5",
     "connect": "^3.7.0",
-    "body-parser": "^1.20.1",
+    "body-parser": "^1.20.4",
     "compression": "^1.7.4"
   },
   "files": [
